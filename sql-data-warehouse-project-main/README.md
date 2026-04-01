@@ -27,14 +27,13 @@ sql-ultimate-course/
 --
 
 ## ☕ Stay Connected
-LinkedIn <img width="10" height="10" alt="linkedin" src="https://github.com/user-attachments/assets/141e4ae4-6e9a-46f2-996a-0fd793ee6b3d" />
-
- www.linkedin.com/in/hassan-mansuri-aa923224a
+LinkedIn <img width="20" height="20" alt="linkedin" src="https://github.com/user-attachments/assets/141e4ae4-6e9a-46f2-996a-0fd793ee6b3d" />
+www.linkedin.com/in/hassan-mansuri-aa923224a
 ---
 
 ## 🛡️ License
 
-This course is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 ## 🌟 About Me
 
