@@ -41,4 +41,5 @@ Hi there! I'm **Hassan Mansuri**,. I’m an IT Beginner on a mission to share kn
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
-[![LinkedIn](www.linkedin.com/in/hassan-mansuri-aa923224a)]
+LinkdIn <img width="20" height="20" alt="linkedin" src="https://github.com/user-attachments/assets/5a4d6e5a-7915-4047-9c52-fe4023652dfe" />
+www.linkedin.com/in/hassan-mansuri-aa923224a
