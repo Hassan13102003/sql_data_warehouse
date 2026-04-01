@@ -24,10 +24,11 @@ sql-ultimate-course/
 └── scripts/                            # All codes presented in the course
 ```
 
----
+--
 
 ## ☕ Stay Connected
-
+LinkedIn <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/359e7cec-7817-4ed1-bb91-d8a9f59c2568" />
+ www.linkedin.com/in/hassan-mansuri-aa923224a
 ---
 
 ## 🛡️ License
