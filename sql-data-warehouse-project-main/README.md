@@ -27,7 +27,8 @@ sql-ultimate-course/
 --
 
 ## ☕ Stay Connected
-LinkedIn <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/359e7cec-7817-4ed1-bb91-d8a9f59c2568" />
+LinkedIn <img width="10" height="10" alt="linkedin" src="https://github.com/user-attachments/assets/141e4ae4-6e9a-46f2-996a-0fd793ee6b3d" />
+
  www.linkedin.com/in/hassan-mansuri-aa923224a
 ---
 
