@@ -8,7 +8,7 @@ Welcome to the **SQL** repository! 🚀
 ---
 
 Everything is for Free!
-- [Datasets](Datasets/):** Access to the dataset (csv files).
+- [Datasets](Datasets/): Access to the dataset (csv files).
 - PostgreSQL Lightweight server for hosting your SQL database.
 
 ---
